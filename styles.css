@@ -23,7 +23,7 @@ body {
 	/* ADDS A GRADIENT BACKGROUND */
 	background: linear-gradient(to top, #f7797d, #FBD786, #C6FFDD);
 	
-	background-image: url("background 2.jpg");
+	background-image: url("background.jpg");
 	background-size: cover;
 	background-position: center center;
 }
